@@ -1,0 +1,1672 @@
+[
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "comp-text",
+    "displayTitle": "",
+    "body": "<p>The<span style=\"color:#f0634d\"> <strong>Information Security Compliance Training</strong></span> experience provides employees with the fundamental skills &amp; knowledge to protect confidential company &amp; client information from potential cybersecurity breaches.</p><p>Employees will be empowered with the awareness to safeguard organizational security through an understanding of information security policies.</p><p><span style=\"color:#f0634d\"><strong>Watch the following video to learn more!</strong></span></p>",
+    "_id": "61ce2dfc234b970ccca7c132",
+    "_parentId": "61ccb573f979c930889939a8",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "comp-text",
+    "displayTitle": "",
+    "body": "<p>These individuals are a part of a <span style=\"color:#f0634d\"><strong>thriving cybercrime industry,</strong></span> which can pose a significant security issue.</p><p>However, our <span style=\"color:#f0634d\"><strong>biggest security vulnerability</strong></span> is often <span style=\"color:#f0634d\"><strong>our employees themselves.</strong></span> This is not due to malicious intent but from a lack of knowledge and understanding around information security.</p><p>As you progress through this eLearning module, you will gain the <span style=\"color:#f0634d\"><strong>necessary knowledge and skills</strong></span> to safeguard against a variety of cybersecurity threats.</p>",
+    "_id": "61cf4f29de69fa0e6cf6c948",
+    "_parentId": "61cd1f0e0e361e2a444a9653",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "comp-accordion",
+    "displayTitle": "",
+    "body": "",
+    "_id": "61cf545ede69fa0e6cf6c949",
+    "_parentId": "61cd1f0e0e361e2a444a9653",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Organized Criminals",
+        "body": "<p>Who collaboratively plan, coordinate, and conduct criminal acts.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": "fontregular"
+      },
+      {
+        "title": "Hackers",
+        "body": "<p><span>Who use various types of technology to gain unauthorized access to confidential data.</span></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": "fontregular"
+      },
+      {
+        "title": "State-sponsored Groups",
+        "body": "<p><span>Who execute corporate and industrial espionage.</span></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": "fontregular"
+      }
+    ],
+    "_shouldCollapseItems": true,
+    "_shouldExpandFirstItem": true
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "comp-video",
+    "displayTitle": "",
+    "body": "",
+    "_id": "61cf5a95de69fa0e6cf6c94a",
+    "_parentId": "61ce355f234b970ccca7c133",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "course/en/assets/2b99b968b61e3f522cd75ff5185dbf9ca36cebd6.mp4",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "",
+      "type": "",
+      "poster": "",
+      "cc": [
+        {
+          "srclang": "en",
+          "src": "course/en/assets/4c1e820d21897d6289518864d19a86e676e96190.vtt"
+        }
+      ]
+    },
+    "_setCompletionOn": "ended",
+    "_useClosedCaptions": true,
+    "_startLanguage": "en",
+    "_showVolumeControl": true,
+    "_startVolume": "80%",
+    "_allowFullScreen": true,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": true,
+    "_playsinline": true,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": false,
+      "_inlineTranscript": true,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "Show Transcript",
+      "inlineTranscriptCloseButton": "Hide Transcript",
+      "inlineTranscriptBody": "<p><span style=\"color:#f0634d\"><strong>Sonron Engineering</strong></span> is responsible for the handling and <span style=\"color:#f0634d\"><strong>protection of sensitive data</strong></span> for global companies and clientele. As such, our brand reputation and continued success depends on their confidence in us as <span style=\"color:#f0634d\"><strong>trustworthy custodians.</strong></span></p><p>Failing to uphold our commitment could result in the:</p><ul><li><span style=\"color:#f0634d\"><strong>Compromise of critical client information</strong></span> and interruption of services.</li><li><span style=\"color:#f0634d\"><strong>Loss of trust</strong></span> &amp; reputational damage towards the Sonron brand.</li><li><span style=\"color:#f0634d\"><strong>Imposition of punitive costs</strong></span> to compensate for security breaches and regulatory penalties.</li></ul><p>This means we consider information protection a <strong><span style=\"color:#f0634d\">serious commitment.</span></strong> Our cybersecurity policies include:</p><ul><li><span style=\"color:#f0634d\"><strong>Sophisticated software systems </strong></span>to protect technology assets.</li><li><span style=\"color:#f0634d\"><strong>Robust security procedures</strong></span> to handle client data.</li><li><span style=\"color:#f0634d\"><strong>Global IT security department</strong></span> that defends against malicious attacks.</li></ul><p>But our strongest line of defense is <span style=\"color:#f0634d\"><strong>YOU.</strong></span></p>",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "narrative",
+    "_classes": "fontregular",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "comp-process",
+    "displayTitle": "",
+    "body": "",
+    "_id": "61cf6b4bde69fa0e6cf6c94d",
+    "_parentId": "61cf4974de69fa0e6cf6c93c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_isTextBelowImage": false,
+    "_isMobileTextBelowImage": false,
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "CovidLock Ransomware",
+        "_ariaLevel": 0,
+        "body": "<p><span>In 2020, rising fear around <span style=\"color:#f0634d\"><strong>COVID-19</strong></span> was exploited by cybercriminals.</span></p><p><span>The <span style=\"color:#f0634d\"><strong>CovidLock</strong></span> ransomware infected victims with <span style=\"color:#f0634d\"><strong>malicious files</strong></span> under the guise of offering further information about the coronavirus.</span></p>",
+        "_graphic": {
+          "src": "course/en/assets/d41e4618fad10030e202df63f3b1dbe8762b6c46.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "CovidLock Ransomware"
+      },
+      {
+        "title": "Business Disruption",
+        "_ariaLevel": 0,
+        "body": "<p>Once installed, <span style=\"color:#f0634d\"><strong>CovidLock</strong></span> would <span style=\"color:#f0634d\"><strong>encrypt data</strong></span> and <span style=\"color:#f0634d\"><strong>deny access</strong></span> to the system.</p><p>Criminals would then request a monetary ransom to restore the data or else it would be held hostage indefinitely.</p>",
+        "_graphic": {
+          "src": "course/en/assets/f368f2598bb0b5d4664b0a96dea60a47d2dccc16.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Business Disruption"
+      },
+      {
+        "title": "Malware Impacts",
+        "_ariaLevel": 0,
+        "body": "<p><span><span style=\"color:#f0634d\"><strong>Malware</strong></span> has the ability to:</span></p><ul><li><span style=\"color:#f0634d\"><strong>Disrupt business</strong></span> services &amp; workflow productivity.</li><li><span style=\"color:#f0634d\"><strong>Compromise information security</strong></span> to allow criminal acts.</li><li><span style=\"color:#f0634d\"><strong>Destroy reputation &amp; trust</strong></span> with Sonron clients.</li></ul>",
+        "_graphic": {
+          "src": "course/en/assets/2ddeeba954421af17678414b1195ec7c95ddf75e.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Malware Impacts"
+      },
+      {
+        "title": "Sonron Responsibility",
+        "_ariaLevel": 0,
+        "body": "<p><span style=\"color:#f0634d\"><strong>Sonron</strong></span> has a <span style=\"color:#f0634d\"><strong>responsibility to prevent malware and virus infections</strong></span> because of our key relationships with global clients.</p><p><span style=\"color:#f0634d\"><strong>Your role</strong></span> requires personal <span style=\"color:#f0634d\"><strong>due diligence and vigilance</strong></span> when dealing with possible vulnerabilities like, emails, devices, and web usage.</p>",
+        "_graphic": {
+          "src": "course/en/assets/bb3349da7a911fde086c145a9f4d4e08a15ec4e3.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Sonron Responsibility"
+      }
+    ]
+  },
+  {
+    "_component": "hotgraphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "comp-hotspot",
+    "displayTitle": "",
+    "body": "",
+    "_id": "61cf6d21de69fa0e6cf6c952",
+    "_parentId": "61cf4975de69fa0e6cf6c93d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_graphic": {
+      "src": "course/en/assets/7a596b276269a7f14b1392fd7cfce941127c6cb1.png",
+      "alt": "",
+      "attribution": ""
+    },
+    "mobileBody": "",
+    "mobileInstruction": "",
+    "_hidePagination": false,
+    "_canCycleThroughPagination": true,
+    "_isNarrativeOnMobile": true,
+    "_useNumberedPins": true,
+    "_useGraphicsAsPins": false,
+    "_isRound": false,
+    "_items": [
+      {
+        "title": "Spelling Mistakes",
+        "_ariaLevel": 0,
+        "body": "<p>Spelling mistakes, such as, misspelt names or URL links that are oddly formatted, should raise concerns.</p>",
+        "strapline": "Spelling Mistakes",
+        "_graphic": {
+          "src": "course/en/assets/b0d1ff80217d6f033735cdbb234d8f4e7dc43e3f.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "fontregular",
+        "_left": 52,
+        "_top": 10
+      },
+      {
+        "title": "Appropriate Asks",
+        "_ariaLevel": 0,
+        "body": "<p>An inappropriate request, includes, IT asking for your password (as they should be able to obtain this information by themselves) or a upper management asking for a transaction to be processed against normal procedures.</p><p>Additionally, a sender might ask for, or provide, something you don't normally deal with, such as, a purchase order or refund.</p>",
+        "strapline": "Appropriate Asks",
+        "_graphic": {
+          "src": "course/en/assets/efbe90f250626b16d8313871d83d556635bff204.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "fontregular",
+        "_left": 75,
+        "_top": 55
+      },
+      {
+        "title": "Behaviour & Mannerisms",
+        "_ariaLevel": 0,
+        "body": "<p>Is the sender behaving differently compared to previous communications?</p><p>They might be using different language or colloquialisms and even ask odd questions.</p>",
+        "strapline": "Behaviour & Mannerisms",
+        "_graphic": {
+          "src": "course/en/assets/d2fcf91df39c701626495fbe18f4e790dd79c1f9.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "fontregular",
+        "_left": 23,
+        "_top": 67
+      },
+      {
+        "title": "If in Doubt, Report!",
+        "_ariaLevel": 0,
+        "body": "<p>If at any point you have doubts, immediately report the communications to your IT security contact.</p><p>You should not attempt to:</p><ul><li>Reply</li><li>Click Links</li><li>Download Attachments</li></ul>",
+        "strapline": "If in Doubt, Report!",
+        "_graphic": {
+          "src": "course/en/assets/c5bce074edd7400a6c2ca4909e73fced80d3eb16.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "fontregular",
+        "_left": 39,
+        "_top": 80
+      }
+    ]
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "comp-process",
+    "displayTitle": "",
+    "body": "",
+    "_id": "61cf731ade69fa0e6cf6c955",
+    "_parentId": "61cf4979de69fa0e6cf6c93f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_isTextBelowImage": false,
+    "_isMobileTextBelowImage": false,
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "A Security Incident is...",
+        "_ariaLevel": 0,
+        "body": "<ul><li><span style=\"color:#f0634d\"><strong>Loss of a work-related device</strong></span>, like a laptop or USB drive.</li><li><span style=\"color:#f0634d\"><strong>Unauthorized access</strong></span> resulting in a data breach.</li><li><span style=\"color:#f0634d\"><strong>Compromise of sensitive information</strong></span>, such as, your login credentials to an outside party.</li></ul>",
+        "_graphic": {
+          "src": "course/en/assets/ccb462689fa439b1f06d310434cd8abc809a46ca.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "A Security Incident is..."
+      },
+      {
+        "title": "Who Should I Contact?",
+        "_ariaLevel": 0,
+        "body": "<p><span style=\"color:#f0634d\"><strong>Client related matters</strong></span> require you to immediately <span style=\"color:#f0634d\"><strong>connect with your project manager</strong></span>, who will notify our IT security and Risk Management teams.</p><p><span style=\"color:#f0634d\"><strong>Non-client related issues</strong></span> require you to <span style=\"color:#f0634d\"><strong>report to your IT security contact</strong></span>, who will determine next steps.</p>",
+        "_graphic": {
+          "src": "course/en/assets/19015076344d61905e249fd79cf1158fd951cfe2.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Who Should I Contact?"
+      },
+      {
+        "title": "Reporting Duty",
+        "_ariaLevel": 0,
+        "body": "<p><span style=\"color:#f0634d\"><strong>Always report information breaches as soon as possible.</strong></span></p><p>This ensures that the appropriate actions are taken to minimize or prevent the damage.</p>",
+        "_graphic": {
+          "src": "course/en/assets/bb3349da7a911fde086c145a9f4d4e08a15ec4e3.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Reporting Duty"
+      }
+    ]
+  },
+  {
+    "_component": "mcq",
+    "_classes": "fontregular",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "comp-mc",
+    "displayTitle": "Q1. What are common examples of malicious parties that participate in cybercrime?",
+    "body": "",
+    "_id": "61cf73ffde69fa0e6cf6c95b",
+    "_parentId": "61cf73bcde69fa0e6cf6c95a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "fontregular",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "fontregular",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Organized Criminals, Hackers, and State-sponsored Groups.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Organized Criminals, Sonron Employees, and Mechanics.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "<p><strong>Incorrect.</strong></p><p>While, Sonron employees might be the cause of security vulnerabilities, they, and mechanics, would not be considered a \"common example of malicious parties\".</p>",
+        "_score": 0
+      },
+      {
+        "text": "Hackers, State-sponsored Groups, and Non-profit Organizations.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "<p><strong>Incorrect.</strong></p><p>While, non-profit organizations could act as fronts for cybercrime. They would not be considered a \"common example of malicious parties\".</p>",
+        "_score": 0
+      },
+      {
+        "text": "Hackers, Software Engineers, and Sonron Employees.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "<p><strong>Incorrect.</strong></p><p>While, Sonron employees might be the cause of security vulnerabilities, they, and software engineers, would not be considered a \"common example of malicious parties\".</p>",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "Feedback",
+      "correct": "<p><strong>Correct!</strong></p><p>Organized criminals, hackers, and state-sponsored groups are considered common participants of cybercrime.</p>",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "comp-text",
+    "displayTitle": "",
+    "body": "<ul><li><span style=\"color:#f0634d\"><strong>Understand the necessity of cybersecurity</strong></span> practices within the workplace and your responsibility in supporting information protection policies.</li><li><span style=\"color:#f0634d\"><strong>Define information protection measures</strong></span> and their importance to organizational security.</li><li><span style=\"color:#f0634d\"><strong>Identify techniques used by cybercriminals</strong></span> and their associated prevention measures.</li><li><span style=\"color:#f0634d\"><strong>Recognize the need to protect confidential information</strong></span> entrusted to the company.</li><li><span style=\"color:#f0634d\"><strong>Demonstrate proper security procedures</strong></span> for data breaches or security incidents.</li></ul><p>Check out the <a href=\"http://www.sonronengineering.com/itsecurity\"><strong>Sonron IT Security homepage</strong></a> for further cybersecurity information!</p>",
+    "_id": "61cf755dde69fa0e6cf6c960",
+    "_parentId": "61cf4a2ade69fa0e6cf6c941",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "comp-blank",
+    "displayTitle": "",
+    "body": "",
+    "_id": "61cf75dade69fa0e6cf6c962",
+    "_parentId": "61cf75a9de69fa0e6cf6c961",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "comp-blank",
+    "displayTitle": "",
+    "body": "",
+    "_id": "61cf76f6de69fa0e6cf6c964",
+    "_parentId": "61cf76e1de69fa0e6cf6c963",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "compBg",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "comp-blank",
+    "displayTitle": "",
+    "body": "",
+    "_id": "61cf771bde69fa0e6cf6c967",
+    "_parentId": "61cf771bde69fa0e6cf6c966",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "comp-blank",
+    "displayTitle": "",
+    "body": "",
+    "_id": "61cf7722de69fa0e6cf6c96a",
+    "_parentId": "61cf7722de69fa0e6cf6c969",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "comp-blank",
+    "displayTitle": "",
+    "body": "",
+    "_id": "61cf783dde69fa0e6cf6c96d",
+    "_parentId": "61cf783dde69fa0e6cf6c96c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "comp-blank",
+    "displayTitle": "",
+    "body": "",
+    "_id": "61cf78bfde69fa0e6cf6c970",
+    "_parentId": "61cf78bfde69fa0e6cf6c96f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "comp-blank",
+    "displayTitle": "",
+    "body": "",
+    "_id": "61cf78c5de69fa0e6cf6c973",
+    "_parentId": "61cf78c5de69fa0e6cf6c972",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "fontregular",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "comp-mc",
+    "displayTitle": "Q2. What is not a possible business impact of a malware infection?",
+    "body": "",
+    "_id": "61d0e7933cedf006844d1d5e",
+    "_parentId": "61d0e7933cedf006844d1d5d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "fontregular",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "fontregular",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Disrupt Services",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "<p><strong>Incorrect.</strong></p><p>Malware can impact the business through disruption of services.</p>",
+        "_score": 0
+      },
+      {
+        "text": "Enable Fraud",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "<p><strong>Incorrect.</strong></p><p>Malware can impact the business by enabling fraud.</p>",
+        "_score": 0
+      },
+      {
+        "text": "Cause Colds",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Destroy Reputations",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "<p><strong>Incorrect.</strong></p><p>Malware can impact the business by destroying reputations and causing a loss of client trust.</p>",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "Feedback",
+      "correct": "<p><strong>Correct!</strong></p><p>While, malware breaches can be referred to as infections. It is not a biological virus like the common cold.</p>",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "assessmentResults",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Quiz Results",
+    "displayTitle": "Quiz Results",
+    "body": "",
+    "_id": "61d0e9393cedf006844d1d60",
+    "_parentId": "61d0e91d3cedf006844d1d5f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_isVisibleBeforeCompletion": false,
+    "_setCompletionOn": "pass",
+    "_resetType": "inherit",
+    "_assessmentId": "",
+    "_retry": {
+      "button": "Retry Assessment",
+      "feedback": "",
+      "_routeToAssessment": true
+    },
+    "_completionBody": "<p><span style=\"color:#f0634d\"><strong>You received the following score:</strong></span> {{{feedback}}}</p>",
+    "_bands": [
+      {
+        "_score": 80,
+        "feedback": "<p><strong>{{{score}}}</strong> out of <strong>{{{maxScore}}}</strong> at <strong>{{{scoreAsPercent}}}%</strong></p><p><span style=\"color:#52aa5e\"><strong>Congrats! You've passed the assessment!</strong></span></p>",
+        "_allowRetry": true,
+        "_classes": ""
+      },
+      {
+        "_score": 0,
+        "feedback": "<p><strong>{{{score}}}</strong> out of <strong>{{{maxScore}}}</strong> at <strong>{{{scoreAsPercent}}}%</strong></p><p><span style=\"color:#f0634d\"><strong>Looks like you need to review the learning content. Retake the knowledge quiz when you're ready!</strong></span></p>",
+        "_allowRetry": true,
+        "_classes": ""
+      }
+    ]
+  },
+  {
+    "_component": "mcq",
+    "_classes": "fontregular",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "comp-mc",
+    "displayTitle": "Q4. As you enter a client facility, an individual approaches and asks if you’d be able to let them in as they’ve lost their ID pass. What should you do?",
+    "body": "",
+    "_id": "61d278eeda3f5f15a0b5039c",
+    "_parentId": "61d278eeda3f5f15a0b5039b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "fontregular",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "fontregular",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Berate them for suggesting this as it is a possible security issue.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "<p><strong>Incorrect.</strong></p><p>While, letting an individual into a secure facility is a security issue. It would be inappropriate to be rude or combative as you are representing the Sonron brand.</p>",
+        "_score": 0
+      },
+      {
+        "text": "Ignore them as you do not know if they are an employee of Sonron or the client.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "<p><strong>Incorrect.</strong></p><p>Although, you may feel suspicious of the individual and not wish to inadvertently assist with a security breach.</p><p>It is also possible that they are in need of honest help and ignoring them could reflect badly upon our relationship with the client. Instead guide them to the appropriate assistance services.</p>",
+        "_score": 0
+      },
+      {
+        "text": "Assist them as it’s a good idea to help others in need.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "<p><strong>Incorrect.</strong></p><p>You do not know if the individual is operating in good faith as they could be a party with malicious intentions.</p>",
+        "_score": 0
+      },
+      {
+        "text": "Politely refuse and offer to escort them over to the reception desk for assistance.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "Feedback",
+      "correct": "<p><strong>Correct!</strong></p><p>You should acknowledge the individual's request for help and assist them through the appropriate security services. You should never put yourself in harm's way nor inadvertently assist in security breaches.</p>",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "matching",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Q5. Select the appropriate reporting action for each scenario.",
+    "displayTitle": "Q5. Select the appropriate reporting action for each scenario.",
+    "body": "",
+    "_id": "61d27cccda3f5f15a0b503a1",
+    "_parentId": "61d278f7da3f5f15a0b5039e",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "fontregular",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldResetAllAnswers": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "placeholder": "Select a Reporting Action",
+    "_items": [
+      {
+        "text": "Helped a stranger access your apartment building after they forgot their security pass.",
+        "_options": [
+          {
+            "text": "Report to Sonron IT Security.",
+            "_isCorrect": false
+          },
+          {
+            "text": "Report to the appropriate non-Sonron authority or service.",
+            "_isCorrect": true
+          }
+        ]
+      },
+      {
+        "text": "Misplaced a USB drive with work-related data.",
+        "_options": [
+          {
+            "text": "Report to Sonron IT Security.",
+            "_isCorrect": true
+          },
+          {
+            "text": "Report to the appropriate non-Sonron authority or service.",
+            "_isCorrect": false
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "title": "Feedback",
+      "correct": "<p><strong>Good job!</strong></p><p>You've selected the correct action for each scenario!</p>",
+      "_incorrect": {
+        "final": "<p><strong>Better luck next time!</strong></p><p>Try to consider what situations would be relevant to and within the capability of Sonron to resolve.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "gmcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Q3. Which image depicts the social engineering technique of phishing?",
+    "displayTitle": "Q3. Which image depicts the social engineering technique of phishing?",
+    "body": "",
+    "_id": "61d286f6da3f5f15a0b503af",
+    "_parentId": "61d284c8da3f5f15a0b503ad",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "fontregular",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "_graphic": {
+          "large": "course/en/assets/7a596b276269a7f14b1392fd7cfce941127c6cb1.png",
+          "small": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "_graphic": {
+          "large": "course/en/assets/e57e5f6594a171686e5fee459a89236413ebf56e.png",
+          "small": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_columns": 0,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "Feedback",
+      "correct": "<p><strong>Correct!</strong></p><p>This image is an example of a phishing email as it shows a falsified email sent by someone attempting to obtain Sonron login credentials.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Incorrect.</strong></p><p>This image would better represent shoulder surfing as it shows a person secretively attempting to look at another individual's computer screen.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "comp-text",
+    "displayTitle": "",
+    "body": "<p>You are now ready to complete the <span style=\"color:#f0634d\"><strong>Knowledge Quiz!</strong></span> You will be assessed on the previous learning content.</p><p>A score of <span style=\"color:#f0634d\"><strong>80% or higher</strong></span> is required to pass. <span style=\"color:#f0634d\"><strong>Good luck!</strong></span></p>",
+    "_id": "61d75668e3600521ec3d3e1b",
+    "_parentId": "61d75631e3600521ec3d3e1a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "comp-blank",
+    "displayTitle": "",
+    "body": "",
+    "_id": "61d75bcfe3600521ec3d3e1e",
+    "_parentId": "61d75bcfe3600521ec3d3e1d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "mc-practice-scenario",
+    "displayTitle": "",
+    "body": "<p><span style=\"color:#f0634d\"><strong>How should you respond? Choose the appropriate response below.</strong></span></p>",
+    "_id": "61eb7e14f86eff09501e3380",
+    "_parentId": "61eb7e14f86eff09501e337f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "You decide to ignore them and quickly enter the building. If you pretend to not have seen them, you can avoid having to deal with the confrontation.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "<p><strong>Oops!</strong></p><p>It turns out that the individual was indeed a client employee.</p><p>They felt rebuked by your obvious avoidance and ended up voicing their complaints to colleagues.</p><p>Although, you prevented a possible security breach through your course of action. It also ended up unnecessarily damaging Sonron’s relationship with the client.</p>",
+        "_score": 0
+      },
+      {
+        "text": "You graciously exclaim, “No worries, I’m heading in anyways! Happy to help a colleague in need.”",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "<p><strong>Uh Oh!</strong></p><p>A day later, you find out that a major security breach has occurred resulting in critical damage to a refinery.</p><p>The facility’s security cameras have captured you assisting the, now malicious, individual with entry. As such, you are suspected of acting as an accessory and could face possible legal charges.</p>",
+        "_score": 0
+      },
+      {
+        "text": "You dismissively reply, “Sorry, it’s against company policy to allow entry into secure areas without a pass. Besides, I don’t know if you’re actually an employee here anyways.”",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "<p><strong>Oops!</strong></p><p>It turns out that the individual was indeed a client employee.</p><p>They felt rebuked by your dismissive attitude and lodged a complaint with their Human Resources department.</p><p>Although, you prevented a possible security breach through your course of action. It also ended up damaging Sonron’s relationship with the client as you were unnecessarily accusatory towards the employee.</p>",
+        "_score": 0
+      },
+      {
+        "text": "You politely respond, “Sorry, I’d love to help but I'm a guest here so I don’t want to overstep. I’m happy to accompany you to Reception to see what they can do though.”",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 999,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": false,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "Feedback",
+      "correct": "<p><strong>Good Job!</strong></p><p>You escorted the individual to the reception desk. Although, you were unable to identify whether or not the person was a malicious actor.</p><p>You responded appropriately by following security protocols and maintaining a respectful relationship with our client and their employees.</p>",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "Submit Your Action",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "Reset Scenario",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "Show Answer",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "Hide Answer",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "Show Feedback",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "stacklist",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "comp-stack",
+    "displayTitle": "",
+    "body": "",
+    "_id": "61eb855df86eff09501e3387",
+    "_parentId": "61e5120015482316308a4247",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "body": "<ul><li><span style=\"color:#f0634d\"><strong>Politely refuse requests to help gain access. </strong></span>Instead, suggest alternative solutions, like offering to escort them to the reception desk for assistance.</li></ul>",
+        "next": "Next"
+      },
+      {
+        "body": "<ul><li><span style=\"color:#f0634d\"><strong>Feel empowered to question suspicious individuals</strong></span> in a polite and helpful manner. If they don’t respond appropriately, raise your worries to the security team.</li></ul>",
+        "next": "Next"
+      },
+      {
+        "body": "<ul><li><span style=\"color:#f0634d\"><strong>Remember that you are also a guest</strong></span> when operating at client facilities and should expect to be challenged. If this occurs, be respectful and considerate with your responses.</li></ul>",
+        "next": "Finish"
+      },
+      {
+        "body": "<p><span style=\"color:#f0634d\"><strong>Use these helpful points whenever you find yourself in possible security breach scenario!</strong></span></p>",
+        "next": ""
+      }
+    ],
+    "_button": {
+      "startText": "Click to Start",
+      "continueText": ""
+    }
+  }
+]
